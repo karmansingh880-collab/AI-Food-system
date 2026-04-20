@@ -1,0 +1,5 @@
+pandas
+scikit-learn
+gradio>=4.0
+matplotlib
+groq
