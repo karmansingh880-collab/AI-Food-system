@@ -1,4 +1,4 @@
-# 🍽️ AI Food Assistant — College Mini Project
+# 🍽️ AI Food Assistant
 
 An ML + GenAI app that **predicts calories** from ingredients using real recipe data,
 and **generates recipes** using Groq's LLM (LLaMA 3).
