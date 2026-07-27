@@ -113,6 +113,5 @@ with gr.Blocks(title="🍽️ AI Food Assistant", theme=gr.themes.Soft()) as dem
         outputs=[ingredients_box, mode_radio, style_dropdown, output_box],
     )
 
-
 if __name__ == "__main__":
     demo.launch()
